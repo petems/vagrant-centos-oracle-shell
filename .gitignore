@@ -1,0 +1,7 @@
+.vagrant
+vagrant_ansible_inventory_default
+oracle/*.zip
+oracle/*.rpm
+oracle/Disk1
+oracle/Disk2
+*.vdi
